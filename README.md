@@ -1,1 +1,1 @@
-https://github.com/MissisVolk/rsschool-cv.gitgit
+https://MissisVolk.github.io/rsschool-cv/
