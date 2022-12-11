@@ -1,5 +1,7 @@
 #SUMMERY
 
+![MissisVolk](/rsschool-cv/img/photo_2022-12-11_15-26-31.jpg)
+
 1.    My fullname is Volha Yaustratava
 
 2.    Contacts:
