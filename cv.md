@@ -21,11 +21,12 @@
       * Photoshop
       * Illustrator
 
-5.    <greet=hw=>'hello world!' >
+5.    Code example:
+      * `greet=hw=>'hello world!' `
 
 6.    Education:
       * Belarusian State University of Informatics and Radioelectronics
-       * Web-design and computer graphics (in progress)
+          * Web-design and computer graphics (in progress)
 
 7.    Courses:
       * JS/FE Pre-School 2022Q4 (in progress)
