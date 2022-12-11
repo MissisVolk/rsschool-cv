@@ -1,2 +1,1 @@
-# rsschool-cv
-CV#1 for RSSchool
+https://github.com/MissisVolk/rsschool-cv.gitgit
